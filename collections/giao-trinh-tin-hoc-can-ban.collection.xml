@@ -1,0 +1,79 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Lê Ngọc Khánh">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10824</md:content-id>
+    <md:title>Giáo trình tin học căn bản</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>d0c6154b-780e-4fd8-b342-6107fa2bf4fc</md:uuid>
+<md:slug>giao-trinh-tin-hoc-can-ban</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Bài 1: Những khái niệm cơ bản  </md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>I. Khái niệm chung</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>II. Hệ điều hành MS-DOS   </md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Bài 2: Các lệnh hệ điều hành của MS-DOS</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>I. Các lệnh nội trú</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>II. Lệnh ngoại trú</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>III. Virus tin học   </md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Bài 3: Norton Commander (NC)</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Bài 4: Tổng quan về Microsoft Window</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title> I. Sử dụng Keyboard (Bàn phím) và Mouse (Chuột)</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>II. Khởi động window   </md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>III. Cửa sổ chương trình ứng dụng</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>IV. Folder - Shortcut</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title> V. Chương trình soạn thảo </md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Bài 5: Window Explorer</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Bài 6: Control Panel</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
